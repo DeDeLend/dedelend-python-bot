@@ -1,0 +1,12 @@
+{
+    "ddl_address_eth" : "0xf22845D0D68A0Aa8f3393054dA86D95CdeF7B47F",
+    "ddl_address_btc" : "0x338cf52614539680b981204f3828823EbD48b921",
+    "block_create" : 27035296,
+    "psql_url": "",
+    "web3_local_provider_url": "http://127.0.0.1:8545",
+    "web3_provider_url": "",
+    "private_key": "",
+    "address": "",
+    "telegram_token": "",
+    "chat_id" : ""
+}
